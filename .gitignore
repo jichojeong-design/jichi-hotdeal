@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.png
+*.jpg
+.pytest_cache/
+test_*.py
+inspect_*.py
+find_*.py
